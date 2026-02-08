@@ -12,30 +12,10 @@ Mi objetivo es consolidar mis conocimientos, demostrar mi proceso de pensamiento
 
 Aquí encontrarás soluciones para desafíos de las siguientes plataformas:
 
-- **TryHackMe:** [Enlace a tu perfil de TryHackMe si lo tienes]
+- **TryHackMe:** https://tryhackme.com/p/RedShenlong
   
 ---
 
 ### 📂 Organización de mis writeups
 
 Mis writeups están organizados por plataforma. Dentro de la carpeta de cada plataforma, encontrarás una carpeta para cada desafío con su solución documentada en un archivo `README.md`.
-
----
-
-### 🌟 Habilidades que he practicado
-
-A través de estos writeups, he trabajado en una variedad de habilidades de ciberseguridad, incluyendo:
-
-...
-
----
-
-### 📬 Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
-
-- **Diego Amador**
-- **LinkedIn:** https://www.linkedin.com/in/diego-amador-talib/
-- **Email:** diegoamadortalib140905@gmail.com
-
-¡Gracias por visitar!
